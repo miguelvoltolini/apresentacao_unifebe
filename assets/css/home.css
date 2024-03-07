@@ -425,3 +425,223 @@ color: black;
     color: black;
 }
 /* ====================================================footer==  */
+
+@media only screen and (max-width: 768px) {
+  header {
+      height: auto;
+      flex-direction: column;
+      align-items: center;
+  }
+
+  ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    li {
+        margin-right: 0;
+        margin-bottom: 10px;
+        font-size: 1rem;
+        text-align: center; /* Centralizar o texto */
+    }
+
+  a {
+      font-size: 0.9rem;
+  }
+
+  h1#tt {
+      font-size: 1.5rem;
+  }
+
+  hr#hrtt {
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  p#txt_c1 {
+      margin: 20px;
+  }
+
+  .imgs_c {
+      flex-wrap: wrap;
+  }
+
+  .image-text {
+      font-size: 1.2rem;
+  }
+
+  #mapa iframe {
+      width: 90%;
+  }
+/*=========================== RODAPE ====================*/
+footer {
+  padding: 127% 0;
+   }
+   
+   img#logordp {
+  margin-left: 15%;
+  margin-top: -130%;
+  height: 20vh;
+   }
+   
+   hr#hrrdp {
+  margin-left: 53.3%;
+ margin-top: -124%;
+ height: 90px;
+   }
+   p#plogo {
+   margin-left: 59%;
+   margin-top: -121%;
+   }
+  
+   h1#h1logo {
+  margin-left: 59%;
+   margin-top: -116.5%;
+   font-size: 1.4rem;
+   }
+  
+   h2#h2logo {
+  margin-left: 59.2%;
+  margin-top: -115%;
+ font-size: 1rem;
+   }
+   
+   h1#h1icns {
+   padding: 0;
+  margin-left: 60px;
+ margin-top: -50vh;
+ text-align: center;
+ font-size: 1.3rem;
+   }
+   
+   h2#h2icns {
+   padding: 0;
+   margin-left: 53px;
+  margin-top: -44vh;
+   text-align: center;
+   font-size: 1rem;
+   }
+  
+  img#icntelef {
+margin-left: 40%;
+  margin-top: -17vh;
+ height: 10vh;
+   }
+   
+  h1#h1telef {
+ margin-left: 95px;
+  margin-top: -5vh;
+  font-size: 1.1rem;
+   }
+   
+   h2#h2telef {
+ margin-left: 150px;
+margin-top: -1vh;
+font-size: 0.9rem;
+   }
+   
+   img#icnwpp {
+margin-left: 40%;
+ margin-top: 8vh;
+ height: 10vh;
+   }
+  
+   h1#h1wpp {
+  margin-left: 95px;
+ margin-top: 22vh;
+  font-size: 1.1rem;
+   }
+   
+   h2#h2wpp {
+margin-left: 150px;
+ margin-top: 26vh;
+  font-size: 0.9rem;
+  }
+   
+   img#icnemail {
+  margin-left: 40%;
+ margin-top: 34vh;
+  height: 10vh;
+   }
+  
+h1#h1email {
+margin-left: 80px;
+ margin-top: 46vh;
+ font-size: 1.1rem;
+ }
+  
+   h2#h2email {
+margin-left: 115px;
+margin-top: 50vh;
+ font-size: 0.9rem;
+  }
+   
+   img#icnhlp1 {
+  height: 8vh;
+  margin-top: -32vh;
+  margin-left: 23%;
+ }
+  
+ img#icnhlp2{
+  height: 8vh;
+  margin-top: -32vh;
+  margin-left: 43%;
+  }
+   
+   img#icnhlp3{
+   height: 8vh;
+   margin-top: -32vh;
+   margin-left: 63%;
+}
+  
+  p#plink {
+  display: none;
+  }
+  
+  a#plkl {
+  display: none;
+  }
+  
+  a#plkj {
+  display: none;
+  }
+  
+  a#plkjp {
+  display: none;
+  }
+  
+  a#plkr {
+  display: none;
+  }
+  
+  a#plkm {
+  display: none;
+  }
+  a#plkb {
+  display: none;
+  }
+  
+  h1#h1pfin {
+  margin-left: 15vw;
+  margin-top: 60vh;
+  font-size: 0.8rem;
+  }
+  
+  h2#h2pfin {
+  margin-left: 32.5vw;
+  margin-top: 60vh;
+  font-size: 0.8rem;
+  }
+   
+  div#pdireitos {
+  margin-left: 19vw;
+  margin-top: 63vh;
+  font-size: 0.6rem;
+   }
+   /*=========================== RODAPE ====================*/
+   
+
+  
+
+  /* Adicione regras de mídia para outros elementos do rodapé conforme necessário */
+}
