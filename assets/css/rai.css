@@ -49,6 +49,14 @@ a:hover{
   color: rgb(22, 175, 22);
 }
 
+img#img1{
+  height: 500px;
+}
+img#img2{
+  height: 300px;
+  text-align: center;
+}
+
 img#est_band{
   height: 6rem;
   background-color: transparent;
@@ -60,6 +68,25 @@ img#est_band:hover{
   filter: saturate(100%); /*rover*/
 }
 /*======================================================================header//*/
+
+.img1{
+  text-align: center;
+}
+#img1{
+  text-align: center;
+}
+
+h2{
+  margin-left: 150px;
+}
+
+p{
+  font-size: 1.2rem;
+  /* text-align: center; */
+  margin-left:150px;
+  margin-right: 150px;
+  text-align: justify;
+  }
 
 h1#titulocorp{
   text-align: center;
