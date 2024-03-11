@@ -9,6 +9,7 @@
 body{
     background-color:  black;
     font-family: "Montserrat", Sans-serif;
+
 }
 
 
@@ -18,6 +19,8 @@ span.material-symbols-outlined:hover{
   color: rgb(22, 175, 22) ;
 
 }
+
+
 
 header{
     display: flex;
@@ -49,14 +52,6 @@ a:hover{
   color: rgb(22, 175, 22);
 }
 
-img#img1{
-  height: 500px;
-}
-img#img2{
-  height: 300px;
-  text-align: center;
-}
-
 img#est_band{
   height: 6rem;
   background-color: transparent;
@@ -69,28 +64,10 @@ img#est_band:hover{
 }
 /*======================================================================header//*/
 
-.img1{
-  text-align: center;
-}
-#img1{
-  text-align: center;
-}
-
-h2{
-  margin-left: 150px;
-}
-
-p{
-  font-size: 1.2rem;
-  /* text-align: center; */
-  margin-left:150px;
-  margin-right: 150px;
-  text-align: justify;
-  }
-
 h1#titulocorp{
-  text-align: center;
+  text-align: justify;
   margin-top: -200px;
+  margin-left: 600px;
 }
 
 h1#tt{
@@ -139,7 +116,7 @@ div.imgs_c{
   }
   
   .imgs_c img {
-    margin-left: -350px;
+    margin-left: -210px;
     width: 35%;
     border-radius: 50%;
     filter: saturate(0%); /*altera saturação */
@@ -150,18 +127,7 @@ div.imgs_c{
     filter: saturate(100%);
   }
   
-  .image-text {
-    position: absolute;
-    font-size: 1rem;
-    font-weight: 500;
-    transition: opacity 0.3s ease;
-    color: white;
-    top: 50%;
-    left: 23%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    opacity: 0;
-  }
+ 
   
   .image-text:hover{
     opacity: 1;
@@ -172,9 +138,108 @@ div.imgs_c{
   text-align: center;
 }
 
+p#tth2{
+  /* text-align: center; */
+  margin-left: 450px;
+  margin-right: 150px;
+  margin-top: -130px;
+  text-align: justify;
+}
 
-
+p{
+  font-size: 1.2rem;
+  /* text-align: center; */
+  margin-left:150px;
+  margin-right: 150px;
+  text-align: justify;
+  }
   
+
+img#img1{
+  height: 450px;
+  border-radius: 10px;
+  /* margin-left: 60px; */
+}
+img#img1-1{
+  height: 500px;
+  border-radius: 10px;
+  /* margin-left: -150px; */
+  margin-top: 2px;
+}
+img#img2{
+  height: 250px;
+  border-radius: 10px;
+  margin-left: 2px;
+}
+img#img2-2{
+  height:450px;
+  border-radius: 10px;
+  margin-left: 2px;
+}
+
+.topografia{
+  text-align: center;
+}
+/* hisdrografia*/
+
+img#imgh1{
+  height: 450px;
+  border-radius: 10px;
+  margin: 2px;
+}
+.hidrografia_img{
+  /* margin-left: 50px; */
+  text-align: center;
+}
+
+
+/* hisdrografia*/
+
+.carta_enchente{
+  /* margin-left: 50px; */
+  text-align: center;
+}
+
+.vegetacao_img{
+  /* margin-left: 50px; */
+  text-align: center;
+}
+.clima_img{
+  /* margin-left: 50px; */
+  text-align: center;
+}
+
+img#clima{
+  height: 350px;
+  border-radius: 10px;
+}
+img#clima1{
+  height: 350px;
+  border-radius: 10px;
+}
+img#veget{
+  height: 300px;
+  border-radius: 10px;
+}
+img#veget1{
+  height: 411px;
+  border-radius: 10px;
+  border: white, 10px, solid;
+}
+
+h2#centro{
+  text-align: center;
+  margin-left: -12px;
+}
+
+h2{
+  margin-left: 150px;
+}
+
+img#imgce{
+  height: 450px;
+  border-radius: 10px;
+}
 
 /* ====================================================footer==  */
 
@@ -307,6 +372,13 @@ h2#h2email{
     font-size: 0.9rem;
     color: #696969;
     font-family: "Montserrat", Sans-serif;
+}
+
+.img1{
+  text-align: center;
+}
+#img1{
+  text-align: center;
 }
 
 img#icnhlp1{

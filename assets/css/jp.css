@@ -156,7 +156,7 @@ p{
   
 
 img#img2{
-  height: 450px;
+  height: 700px;
   border-radius: 10px;
   /* margin-left: 60px; */
 }
@@ -173,6 +173,9 @@ img#img_unic{
 }
 
 .imgsjunt{
+  display: flex;
+  flex-direction: row;
+  margin-left: 20%;
   text-align: center;
 }
 
@@ -182,6 +185,9 @@ img#img_unic{
 /* hisdrografia*/
 
 .img1{
+  text-align: center;
+}
+.img4{
   text-align: center;
 }
 
