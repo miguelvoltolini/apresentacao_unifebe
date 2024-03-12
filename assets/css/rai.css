@@ -381,6 +381,12 @@ h2#h2email{
   text-align: center;
 }
 
+hr{
+  border-color: #696969;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
 img#icnhlp1{
   position: absolute;
   height: 7.2vh;

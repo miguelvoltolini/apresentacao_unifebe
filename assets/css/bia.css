@@ -156,76 +156,12 @@ p{
   
 
 img#img1{
-  height: 450px;
+  height: 400px;
   border-radius: 10px;
   /* margin-left: 60px; */
 }
-img#img1-1{
-  height: 500px;
-  border-radius: 10px;
-  /* margin-left: -150px; */
-  margin-top: 2px;
-}
-img#img2{
-  height: 500px;
-  border-radius: 10px;
-  margin-left: 2px;
-}
-img#img2-2{
-  height:450px;
-  border-radius: 10px;
-  margin-left: 2px;
-}
-
-.topografia{
-  text-align: center;
-}
-/* hisdrografia*/
-
-img#imgh1{
-  height: 450px;
-  border-radius: 10px;
-  margin: 2px;
-}
-.hidrografia_img{
-  /* margin-left: 50px; */
-  text-align: center;
-}
 
 
-/* hisdrografia*/
-
-.carta_enchente{
-  /* margin-left: 50px; */
-  text-align: center;
-}
-
-.vegetacao_img{
-  /* margin-left: 50px; */
-  text-align: center;
-}
-.clima_img{
-  /* margin-left: 50px; */
-  text-align: center;
-}
-
-img#clima{
-  height: 350px;
-  border-radius: 10px;
-}
-img#clima1{
-  height: 350px;
-  border-radius: 10px;
-}
-img#veget{
-  height: 300px;
-  border-radius: 10px;
-}
-img#veget1{
-  height: 411px;
-  border-radius: 10px;
-  border: white, 10px, solid;
-}
 
 h2#centro{
   text-align: center;

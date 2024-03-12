@@ -154,6 +154,11 @@ p{
   text-align: justify;
   }
   
+hr{
+  border-color: #696969;
+  margin-left: 150px;
+  margin-right: 150px;
+}
 
 img#img1{
   height: 450px;
