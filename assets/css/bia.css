@@ -138,29 +138,143 @@ div.imgs_c{
   text-align: center;
 }
 
+hr{
+  border-color: #696969;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+div.interacao_ruim{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 150px;
+}
+
+div.txt_int_ruim{
+  text-align: right;
+  margin-top: 150px;
+  font-size: 1.6rem;
+  margin-left: 10px;
+}
+
+img#interacao_ruim{
+  margin-left: 150px;
+  height: 450px;
+  border-radius: 10px;
+}
+
+img#img_grnd{
+  height: 470px;
+  border-radius: 10px;
+}
+img#img_grnd2{
+  height: 500px;
+  border-radius: 10px;
+}
+img#img_grnd3{
+  height: 461px;
+  border-radius: 10px;
+}
+
 p#tth2{
   /* text-align: center; */
+  font-size: 1.2rem;
   margin-left: 450px;
   margin-right: 150px;
   margin-top: -130px;
   text-align: justify;
 }
-
-p{
-  font-size: 1.2rem;
+p#corpo{
   /* text-align: center; */
-  margin-left:150px;
+  font-size: 1.2rem;
+  margin-left: 150px;
   margin-right: 150px;
   text-align: justify;
+}
+
+p{
+  /* font-size: 1.2rem; */
+  /* text-align: center; */
+  /* margin-left:150px; */
+  /* margin-right: 150px; */
+  /* text-align: justify; */
   }
   
 
+h2#nome_rua{
+  /* text-align: center; */
+  margin-left: 150px;
+  /* margin: 0; */
+  }
+
+.augusta_div{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 150px;
+  margin-right: 150px;
+  /* text-align: center; */
+}
+
+.rua_irma{
+
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+}
+
+.vegetacao_img{
+  /* margin-left: 50px; */
+  justify-content: space-between;
+  text-align: center;
+}
+
+img#veget{
+  height: 300px;
+  border-radius: 10px;
+}
+img#veget1{
+  height: 411px;
+  border-radius: 10px;
+  border: white, 10px, solid;
+}
+
 img#img1{
+  height: 550px;
+  border-radius: 10px;
+  /* margin-left: 60px; */
+}
+img#img3{
+  height: 405px;
+  border-radius: 10px;
+  /* margin-left: 60px; */
+}
+
+img#img4{
+  height: 420px;
+  border-radius: 10px;
+  /* margin-left: 60px; */
+}
+img#img5{
+  height: 600px;
+  border-radius: 10px;
+  margin-left: 10px;
+  /* margin-left: 60px; */
+}
+
+img#img4{
   height: 400px;
   border-radius: 10px;
   /* margin-left: 60px; */
 }
 
+img#img2{
+  height: 300px;
+  border-radius: 10px;
+  /* margin-left: -150px; */
+  margin-top: 2px;
+}
 
 
 h2#centro{
@@ -171,9 +285,17 @@ h2#centro{
 h2{
   margin-left: 150px;
 }
+h1{
+  margin-left: 150px;
+}
+
+.carta_enchente{
+  /* margin-left: 50px; */
+  text-align: center;
+}
 
 img#imgce{
-  height: 450px;
+  height: 650px;
   border-radius: 10px;
 }
 
